@@ -1,0 +1,28 @@
+name: flutter_redux_architecture
+description: Flutter Redux Architecture.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  http: ^0.12.0+2
+  redux: ^4.0.0
+  flutter_redux: ^0.6.0
+  redux_thunk: ^0.3.0
+  redux_logging: ^0.4.0
+  datetime_picker_formfield: ^1.0.0
+  intl: ^0.16.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
