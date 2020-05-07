@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://flutter.io/">
-    <img src="https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png" alt="Logo" width=72 height=72>
+    <img src="https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png" alt="Logo" width=200 height=72>
   </a>
 
   <h3 align="center">UBA Flutter Redux Architecture</h3>
@@ -9,6 +9,8 @@
     This is the flagship flutter redux architecture
   </p>
 </p>
+
+[![Codemagic build status](https://api.codemagic.io/apps/5eb2dacdbfb8fa2fe2dcc5c5/5eb2dacdbfb8fa2fe2dcc5c4/status_badge.svg)](https://codemagic.io/apps/5eb2dacdbfb8fa2fe2dcc5c5/5eb2dacdbfb8fa2fe2dcc5c4/latest_build)
 
 ## Table of contents
 
