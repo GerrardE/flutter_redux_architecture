@@ -6,11 +6,11 @@
   <h3 align="center">UBA Flutter Redux Architecture</h3>
 
   <p align="center">
-    This is the flagship flutter redux architecture
+    This is a simple flutter redux architecture
   </p>
 </p>
 
-[![Codemagic build status](https://api.codemagic.io/apps/5eb2dacdbfb8fa2fe2dcc5c5/5eb2dacdbfb8fa2fe2dcc5c4/status_badge.svg)](https://codemagic.io/apps/5eb2dacdbfb8fa2fe2dcc5c5/5eb2dacdbfb8fa2fe2dcc5c4/latest_build)
+[![Codemagic build status](https://api.codemagic.io/apps/5eb4315cbfb8fa5694d45bba/5eb4315cbfb8fa5694d45bb9/status_badge.svg)](https://codemagic.io/apps/5eb4315cbfb8fa5694d45bba/5eb4315cbfb8fa5694d45bb9/latest_build)
 
 ## Table of contents
 
