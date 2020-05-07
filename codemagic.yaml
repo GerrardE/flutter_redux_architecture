@@ -67,7 +67,7 @@ workflows:
         recipients:
           - ezeugwagerrard@gmail.com
 
-stable-workflow:
-  <<: *baseline
-    environment:
-      flutter: beta
+  stable-workflow:
+    <<: *baseline
+      environment:
+        flutter: beta
