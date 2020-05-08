@@ -3,14 +3,14 @@
     <img src="https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png" alt="Logo" width=200 height=72>
   </a>
 
-  <h3 align="center">UBA Flutter Redux Architecture</h3>
+  <h3 align="center">Flutter Redux Architecture</h3>
 
   <p align="center">
     This is a simple flutter redux architecture
   </p>
 </p>
 
-[![Codemagic build status](https://api.codemagic.io/apps/5eb4315cbfb8fa5694d45bba/5eb4315cbfb8fa5694d45bb9/status_badge.svg)](https://codemagic.io/apps/5eb4315cbfb8fa5694d45bba/5eb4315cbfb8fa5694d45bb9/latest_build)
+[![Codemagic build status](https://api.codemagic.io/apps/5eb5714005289f000d9075db/5eb5714005289f000d9075da/status_badge.svg)](https://codemagic.io/apps/5eb5714005289f000d9075db/5eb5714005289f000d9075da/latest_build)
 
 ## Table of contents
 
@@ -66,6 +66,8 @@ The main components of **Views** are structured as follows:
 
 > `/screens`: The screens are the UI representations for every feature in the aplication
 
+> [Build Instructions](bulding.md) : The instructions to build the aplication
+
 
 ## 3- Utils:
 
@@ -76,16 +78,16 @@ The main components of **Utils** are application wide utilities like color conve
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://gitlab.com/ubainnovate/flutter_redux_architecture/-/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://gitlab.com/ubainnovate/flutter_redux_architecture/-/issues/new).
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/gerrarde/flutter_redux_architecture/-/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/gerrarde/flutter_redux_architecture/-/issues/new).
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://gitlab.com/ubainnovate/flutter_redux_architecture/-/tree/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Please read through our [contributing guidelines](https://github.com/gerrarde/flutter_redux_architecture/-/tree/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
 
 ## Creators
 
-**Gerrard Ezeugwa for Uba Innovation Lab**
+**Gerrard Ezeugwa**
 
 - <https://github.com/gerrarde>
 
@@ -95,6 +97,6 @@ Thanks to all contributors and their support:
 
 ## Copyright and license
 
-Code and documentation copyright 2020 the creator. Code released under the [MIT License](https://gitlab.com/ubainnovate/flutter_redux_architecture/-/tree/master/CONTRIBUTING/LICENSE).
+Code and documentation copyright 2020 the creator. Code released under the [MIT License](https://github.com/gerrarde/flutter_redux_architecture/-/tree/master/CONTRIBUTING/LICENSE).
 
 Enjoy :metal:
