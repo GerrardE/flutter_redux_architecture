@@ -44,7 +44,7 @@ ThunkAction getTodos() {
 
       try {
         // Delay the request just to show the progress indicator
-        Future.delayed(Duration(seconds: 4));
+        Future.delayed(Duration(seconds: 5));
         final response =
             await _apiService.get("$apiBaseUrl/todos/", apiHeaders);
 
